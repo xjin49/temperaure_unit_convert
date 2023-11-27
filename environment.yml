@@ -1,0 +1,4 @@
+name: geo_scipy
+dependencies:
+    - python=3.9    # Python version 3.9
+    - numpy    # Python version 3.9
